@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Github Eaaa…</string>
+
+    <string name="default_username">--username--</string>
+    <string name="string_repository">Repository</string>
+    <string name="string_followers">Followers</string>
+    <string name="string_following">Following</string>
+
+    <string name="search_username">search</string>
+    <string name="search_hint">Search…</string>
+    <string name="search_status_init">Please search for users…</string>
+    <string name="search_status_not_found">User Not Found</string>
+    <string name="search_status_connection_problem">
+        Connection Problem\n
+        Please Try Again…
+    </string>
+
+
+    <string name="follower_status_no_follower">User doesn\'t have any follower</string>
+    <string name="following_status_no_following">User doesn\'t follow anyone</string>
+
+    <string name="default_null"> - </string>
+    <string name="default_loading">…</string>
+
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+
+    <string name="cd_user_detail_img">Profile Picture</string>
+    <string name="cd_splash_logo_img">Github Logo</string>
+    <string name="cd_splash_dev_img">by Hizkya</string>
+    <string name="cd_favorite_fab">Favorite User</string>
+    <string name="cd_favorite_status">Favorite Status: You don\'t favorite any user</string>
+
+
+    <string name="pref_title">Preferences</string>
+    <string name="pref_dark_mode">Dark Mode</string>
+
+    <string name="favorite_add">added to Favorite</string>
+    <string name="favorite_remove">removed from Favorite</string>
+    <string name="favorite_title">Favorite Users</string>
+    <string name="favorite_status_empty">You don\'t favorite any user</string>
+
+</resources>
